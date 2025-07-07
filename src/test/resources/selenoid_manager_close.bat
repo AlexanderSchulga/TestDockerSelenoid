@@ -1,5 +1,5 @@
 @echo off
-cd /d "K:\TestDockerSelenoidJenkins\TestDockerSelenoid\src\test\resources"
+cd ".\src\test\resources"
 
 :: Даем время на завершение всех операций
 timeout /t 5 /nobreak
